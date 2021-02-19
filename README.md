@@ -20,11 +20,11 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/906/906324.svg?token=exp=1613757593~hmac=f5417ae22a704517b20d0c03379e7ca9" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Python" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/2570/2570575.svg?token=exp=1613757190~hmac=c32f54f286d62191e5bcf273c03edb30" />
+<img align="left" alt="Python" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/2570/2570575.svg?token=exp=1613774893~hmac=f2ec5717f8530c32e33871b64fb86da8" />
 <img align="left" alt="JavaScript" width="26px" src="https://www.flaticon.com/premium-icon/icons/svg/3097/3097978.svg" />
-<img align="left" alt="java" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/226/226777.svg?token=exp=1613757447~hmac=db5c08c10de37441dae518e5c4d183a0" />
+<img align="left" alt="java" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/226/226777.svg?token=exp=1613774945~hmac=6f9cb72420200a24aebf2c083bc443a0" />
 <img align="left" alt="c" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/3600/3600912.svg?token=exp=1613757494~hmac=cbd8da4fca4c3092f99a40352d87f689" />
-<img align="left" alt="c++" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/919/919841.svg?token=exp=1613757494~hmac=4cd053c7d8d1a5e9b1fd44765da2d3f5" />
+<img align="left" alt="c++" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/919/919841.svg?token=exp=1613774968~hmac=68ddb93567ee0273131b1ea37c2bdb45" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="c#" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/381/381704.svg?token=exp=1613757556~hmac=073a30af1490fa5cabc532b9966447ef" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
@@ -37,7 +37,9 @@
 <br />
 <br />
 
-
+<br />
+<br />
+<br />
 
 <details>
   <summary>:zap: GitHub Stats</summary>
