@@ -1,6 +1,8 @@
 ### Hi there 👋. I'm İsmail.  
 [<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ismlcfc?color=1DA1F2&logo=twitter&logoColor=1DA1F2&style=for-the-badge">][twitter]
 
+[<img src="https://raw.githubusercontent.com/ISMAILCFC/ISMAILCFC/master/intro.gif"/>]
+
 ### I am a Programmer, Developer, and Student !!!
 
 - 🔭 I’m currently working on Android
