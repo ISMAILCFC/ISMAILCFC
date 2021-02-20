@@ -9,6 +9,7 @@
 
 ### Connect with me:
 
+[<img align="left" alt="codeSTACKr | youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -39,7 +40,8 @@
 
 <br />
 <br />
-<br />
+
+
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -54,7 +56,7 @@
 
 
 [twitter]: https://twitter.com/ismlcfc
-
+[youtube]: https://www.youtube.com/channel/UCkXImGbBpzW4Fgmn60H0_Vw
 [instagram]: https://instagram.com/ismlcfci
 [linkedin]: https://www.linkedin.com/in/ismail-hakki-çifci-677399162
 
