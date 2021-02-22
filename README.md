@@ -31,9 +31,9 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://www.flaticon.com/premium-icon/icons/svg/3097/3097978.svg" />
-<img align="left" alt="java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="java" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/332/332121.svg?token=exp=1614022056~hmac=b10ad32ca657eaead05beb6f77892664" />
 <img align="left" alt="c" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/3600/3600912.svg?token=exp=1613757494~hmac=cbd8da4fca4c3092f99a40352d87f689" />
-<img align="left" alt="c++" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/919/919841.svg?token=exp=1613774968~hmac=68ddb93567ee0273131b1ea37c2bdb45" />
+<img align="left" alt="c++" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/461/461075.svg?token=exp=1614022097~hmac=74db6d570476743c3372950c1f45be7f" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="c#" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/381/381704.svg?token=exp=1613757556~hmac=073a30af1490fa5cabc532b9966447ef" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
