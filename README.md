@@ -7,7 +7,7 @@
 
 
 
-[<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ismlcfc?color=1DA1F2&logo=twitter&logoColor=1DA1F2&style=for-the-badge">]
+[<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ismlcfc?color=1DA1F2&logo=twitter&logoColor=1DA1F2&style=for-the-badge">][twitter]
 
 ### I am a Programmer, Developer, and Student !!!
 
