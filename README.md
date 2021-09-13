@@ -11,8 +11,8 @@
 
 ### I am a Programmer, Developer, and Student !!!
 
-- 🔭 I’m currently working on Android
-- 🌱 I’m currently learning everything
+- 🔭 I’m currently working on React.js
+- 🌱 I’m currently learning React.js and python
 - 👯 I’m looking to collaborate with other content creator
 
 ### Connect with me:
